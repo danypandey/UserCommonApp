@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 namespace UserCommonApp
 {
     [ServiceContract]
-    public interface IUserService
+    public interface IUpdateManager
     {
         /*
         * Get 

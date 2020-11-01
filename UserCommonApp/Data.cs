@@ -2,13 +2,19 @@
 
 namespace UserCommonApp
 {
+    /// <summary>
+    /// / It accepts request from client and returns the required data
+    /// </summary>
     [DataContract]
     public class Data
     {
         [DataMember]
-        public float appVersion { get; set; }
+        public float VersionNumber { get; set; }
 
         [DataMember]
-        public string versionUpdateLink { get; set; }
+        public string URLMSI { get; set; }
+
+        [DataMember]
+        public bool MandatoryUpdate { get; set; }
     }
 }
