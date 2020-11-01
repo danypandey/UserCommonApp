@@ -13,5 +13,8 @@ namespace UserCommonApp
 
         [DataMember]
         public string CurrentStableVersion { get; set; }
+
+        [DataMember]
+        public string latestVersionLink { get; set; }
     }
 }
