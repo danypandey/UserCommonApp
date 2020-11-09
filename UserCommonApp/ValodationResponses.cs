@@ -1,12 +1,11 @@
 ﻿using System.Runtime.Serialization;
+using Ziroh.Misc.Common;
 
 namespace UserCommonApp
 {
     [DataContract]
-    public class Result
+    public class ValidationResponse: Result
     {
-        [DataMember]
-        public int Error_code { get; set; }
 
         [DataMember]
         public bool MandatoryUpdate { get; set; }
