@@ -23,6 +23,6 @@ namespace UserCommonApp
         public string clientPlatform { get; set; }
 
         [DataMember]
-        public string ClientOS_Bit { get; set; }
+        public bool is64Bit { get; set; }
     }
 }
