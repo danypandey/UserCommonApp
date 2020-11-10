@@ -11,6 +11,9 @@ namespace UserCommonApp
         public string ClientVersionNumber { get; set; }
 
         [DataMember]
+        public bool isUpdateAvailable { get; set; }
+
+        [DataMember]
         public bool MandatoryUpdate { get; set; }
 
         [DataMember]
