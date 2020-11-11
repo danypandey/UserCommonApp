@@ -5,7 +5,7 @@ using Ziroh.Misc.Common;
 namespace UserCommonApp
 {
     [DataContract]
-    public class ValidationResponse: Result
+    public class ValidationResponse : Result
     {
         [DataMember]
         public string ClientVersionNumber { get; set; }
@@ -27,5 +27,11 @@ namespace UserCommonApp
 
         [DataMember]
         public bool is64Bit { get; set; }
+
+        [DataMember]
+        public string UpgradeReferenceId { get; set; }
+
+        [DataMember]
+        public DateTimeFormat ReleaseDate { get; set; }
     }
 }
