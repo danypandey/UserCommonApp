@@ -8,9 +8,6 @@ namespace UserCommonApp
     public class ValidationResponse : Result
     {
         [DataMember]
-        public string ClientVersionNumber { get; set; }
-
-        [DataMember]
         public bool isUpdateAvailable { get; set; }
 
         [DataMember]
@@ -21,12 +18,6 @@ namespace UserCommonApp
 
         [DataMember]
         public string latestVersionLink { get; set; }
-
-        [DataMember]
-        public string clientPlatform { get; set; }
-
-        [DataMember]
-        public bool is64Bit { get; set; }
 
         [DataMember]
         public string UpgradeReferenceId { get; set; }

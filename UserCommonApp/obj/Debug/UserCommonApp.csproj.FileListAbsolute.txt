@@ -1,0 +1,16 @@
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\UserCommonApp.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\UserCommonApp.pdb
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\Ziroh.CommonLibrary.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\MongoDB.Bson.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\Ziroh.CommonLibrary2.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\taglib-sharp.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\MediaInfo.Wrapper.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\Newtonsoft.Json.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\System.Data.SQLite.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\MimeKit.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\bin\Debug\Ziroh.CommonLibrary.pdb
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.csproj.CoreCompileInputs.cache
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.csproj.CopyComplete
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.dll
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.pdb
