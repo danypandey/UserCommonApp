@@ -14,3 +14,4 @@ D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCo
 D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.csproj.CopyComplete
 D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.dll
 D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.pdb
+D:\Ziroh Labs\Internship Date(8-10-2020)\OStorUpdateManager\UserCommonApp\UserCommonApp\obj\Debug\UserCommonApp.csprojAssemblyReference.cache

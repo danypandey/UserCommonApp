@@ -23,6 +23,6 @@ namespace UserCommonApp
         public string UpgradeReferenceId { get; set; }
 
         [DataMember]
-        public DateTimeFormat ReleaseDate { get; set; }
+        public string ReleaseDate { get; set; }
     }
 }
